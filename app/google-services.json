@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "90221104273",
+    "firebase_url": "https://admob-app-id-7768880404.firebaseio.com",
+    "project_id": "admob-app-id-7768880404",
+    "storage_bucket": "admob-app-id-7768880404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90221104273:android:ed987958dfb8f7da",
+        "android_client_info": {
+          "package_name": "br.ddmsoftware.proverbiododia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90221104273-biogncmkj49uj26cmfvdh3265995ncrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1CFPC6JmMVWY3gjJH98v7n1V23XV1DWQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90221104273:android:9e139df492bb357b",
+        "android_client_info": {
+          "package_name": "br.com.ddmsoftware.churrascoladora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90221104273-biogncmkj49uj26cmfvdh3265995ncrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1CFPC6JmMVWY3gjJH98v7n1V23XV1DWQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

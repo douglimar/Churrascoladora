@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/Churrascoladora2/app/build/intermediates/res/merged/release/mipmap-mdpi-v4/icone3.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/Churrascoladora2/app/src/main/res/mipmap-mdpi/icone3.png"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/Churrascoladora2/app/build/intermediates/res/merged/release/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/Churrascoladora2/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

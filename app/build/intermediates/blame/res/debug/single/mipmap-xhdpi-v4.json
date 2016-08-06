@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/Churrascoladora2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/Churrascoladora2/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/Churrascoladora2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/icone2.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/Churrascoladora2/app/src/main/res/mipmap-xhdpi/icone2.png"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/Churrascoladora2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/icone.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/Churrascoladora2/app/src/main/res/mipmap-xhdpi/icone.png"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/Churrascoladora2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/icone1.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/Churrascoladora2/app/src/main/res/mipmap-xhdpi/icone1.png"
+    }
+]

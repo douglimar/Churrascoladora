@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Churrascoladora</string>
+    <string name="carnes">Carnes</string>
+    <string name="hint_carnes">Quais tipos de carnes terá no seu churrasco</string>
+    <string name="hint_pessoas">Quantas pessoas irão no seu churrasco</string>
+    <string name="pessoas">Pessoas</string>
+    <string name="qtd_de_homens">Qtd. de Homens</string>
+    <string name="qtd_de_mulheres">Qtd. de Mulheres</string>
+    <string name="qtd_de_crian_as">Qtd. de Crianças</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="banner_ad_unit_id_TESTE">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1098336821710456/1957646406</string>
+</resources>
